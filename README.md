@@ -1,6 +1,6 @@
-# K_Means_EDA_PCA & Agglomerative Clustering for Dendogram
+# K_Means_EDA_PCA & Agglomerative Clustering 
 
-Problem Statement - 
+# Problem Statement - 
 An equities analyst is studying the pharmaceutical industry and would like your help in exploring and understanding the financial data collected by her firm. Her main objective is to understand the structure of the pharmaceutical industry using some base financial measures.
 
 Financial data gathered on 21 firms in the pharmaceutical industry are available in the 'Pharmaceuticals.csv' dataset.
